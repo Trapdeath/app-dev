@@ -1,8 +1,8 @@
 # app-dev
+
 My first repository.
 
 My Favorite Series/Movie
-
 1. **Naruto**
 2. **Your Name**
 3. **Code Geass**
